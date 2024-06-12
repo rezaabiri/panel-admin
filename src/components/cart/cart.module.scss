@@ -1,0 +1,18 @@
+
+.cart{
+  width: 50%;
+  height: 100px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px green;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  p{
+    display: inline;
+    margin: 0;
+    color: black;
+    font-weight: 600;
+  }
+}

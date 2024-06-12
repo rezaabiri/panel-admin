@@ -1,0 +1,21 @@
+.mainRow{
+  width: 100%;
+  height: auto;
+  display: flex;
+  background-color: green;
+  justify-content: space-evenly;
+  padding: 10px 10px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+
+.mainColumn{
+  width: 100%;
+  height: auto;
+  display: flex;
+  background-color: green;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 10px 10px;
+  box-sizing: border-box;
+}
